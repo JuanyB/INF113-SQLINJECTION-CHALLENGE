@@ -1,1 +1,3 @@
 # INF113-SQLINJECTION-CHALLENGE
+You are a junior software engineer at TechCorp, a growing technology company. Your team has just completed a security audit of the company's internal user management system, and the results are alarming: the system contains critical SQL injection vulnerabilities that could allow attackers to bypass authentication, steal sensitive data, or even destroy the entire user database.
+Your manager has assigned you the urgent task of fixing these security vulnerabilities while maintaining all existing functionality. The system is currently in production, so you cannot break any features that employees depend on daily.
